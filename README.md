@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrinceTechAfrica
-- 👀 I’m interested in python,datascience,IoT and web development 
+- 👀 I’m interested in python,datascience,IoT,Machine Learning, Artificial Intelligence and web development 
 - 🌱 I’m currently learning data science with python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to meet Potential Supervisor around the world to pursue my research Degree(MSC/PhD) 
 - 📫 How to reach me https://www.linkedin.com/in/prince-uchenna-b27450110
 
 <!---
